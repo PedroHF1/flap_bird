@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1685039276 source:c:\users\pedro\documents\programação\codeblocks\flap birdy\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
